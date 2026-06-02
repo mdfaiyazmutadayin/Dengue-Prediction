@@ -1,7 +1,7 @@
 # Dengue-Prediction
 ## Project Overview
 
-Dengue is a mosquito-borne viral disease that can range from mild fever to severe, life‑threatening complications. Early identification of patients at higher risk can support faster clinical decision-making and better allocation of healthcare resources. This repository contains my **Machine Learning course project** focused on predicting **dengue outcomes** from structured patient information and laboratory indicators. The work is organized as a single, reproducible **Jupyter Notebook** that demonstrates the typical end-to-end workflow used in applied machine learning.
+Dengue is a mosquito-borne viral disease that can range from mild fever to severe, life‑threatening complications. Early identification of patients at higher risk can support faster clinical decision-making and better allocation of healthcare resources. This repository contains my **Machine Learning course project** focused on predicting **dengue outcomes** from structured patient information and laboratory indicators. The work is organized  that demonstrates the typical end-to-end workflow used in applied machine learning.
 
 ## What this project does
 
